@@ -1,6 +1,8 @@
 {
     "name": "ESP32-S3 240x240",
     "description": "Firmware cho ESP32-S3 với màn hình 240x240",
+    "version": "1.0.0",
+    "new_install_prompt_erase": true,
     "builds": [
         {
             "chipFamily": "ESP32-S3",
