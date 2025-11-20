@@ -1,19 +1,23 @@
 {
     "name": "ESP32-S3 240x240",
     "description": "Firmware cho ESP32-S3 với màn hình 240x240",
-    "target": "esp32s3",
-    "files": [
+    "builds": [
         {
-            "offset": 4096,
-            "path": "bootloader.bin"
-        },
-        {
-            "offset": 32768,
-            "path": "partitions.bin"
-        },
-        {
-            "offset": 65536,
-            "path": "firmware.bin"
+            "chipFamily": "ESP32-S3",
+            "parts": [
+                {
+                    "path": "bootloader.bin",
+                    "offset": 4096
+                },
+                {
+                    "path": "partitions.bin",
+                    "offset": 32768
+                },
+                {
+                    "path": "firmware.bin",
+                    "offset": 65536
+                }
+            ]
         }
     ]
 }
