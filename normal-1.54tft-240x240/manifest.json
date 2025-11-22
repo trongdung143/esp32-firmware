@@ -1,0 +1,29 @@
+{
+    "name": "ESP32-S3 240x240",
+    "description": "Firmware cho ESP32-S3 với màn hình 240x240",
+    "version": "1.0.0",
+    "new_install_prompt_erase": true,
+    "builds": [
+        {
+            "chipFamily": "ESP32-S3",
+            "parts": [
+                {
+                    "path": "bootloader.bin",
+                    "offset": 0
+                },
+                {
+                    "path": "partitions.bin",
+                    "offset": 32768
+                },
+                {
+                    "path": "boot_app0.bin",
+                    "offset": 16384
+                },
+                {
+                    "path": "firmware.bin",
+                    "offset": 65536
+                }
+            ]
+        }
+    ]
+}
