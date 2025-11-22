@@ -1,0 +1,5 @@
+MOSI(SDB) 11
+SCLK(CLK) 12
+CS 41  
+DC 40  
+RST 42  
