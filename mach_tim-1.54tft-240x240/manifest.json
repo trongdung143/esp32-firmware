@@ -1,6 +1,6 @@
 {
-    "name": "cube 240x240",
-    "description": "Firmware cho cube với màn hình 240x240",
+    "name": "mạch tím 240x240 ST7789",
+    "description": "Firmware cho mạch tím với màn hình 240x240 ST7789",
     "version": "1.0.0",
     "new_install_prompt_erase": true,
     "builds": [

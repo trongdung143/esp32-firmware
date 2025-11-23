@@ -1,0 +1,8 @@
+Màn hình SPI (GC9A01)
+- MOSI: 41
+- SCLK: 42
+- CS  : GND
+- DC  : 43
+- RST : 44
+
+

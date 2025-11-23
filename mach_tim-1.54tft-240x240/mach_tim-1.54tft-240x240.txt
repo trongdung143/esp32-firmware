@@ -1,0 +1,7 @@
+Màn hình SPI (ST7789)
+- MOSI: 41
+- SCLK: 42
+- CS  : GND
+- DC  : 43
+- RST : 44
+- BL  : 3v3

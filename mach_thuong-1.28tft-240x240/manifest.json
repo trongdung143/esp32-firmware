@@ -1,6 +1,6 @@
 {
-    "name": "cube 240x240",
-    "description": "Firmware cho cube với màn hình 240x240",
+    "name": "mạch thường 240x240 GC9A01",
+    "description": "Firmware cho mạch thường với màn hình 240x240 GC9A01",
     "version": "1.0.0",
     "new_install_prompt_erase": true,
     "builds": [

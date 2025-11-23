@@ -1,6 +1,6 @@
 {
-    "name": "ESP32-S3 240x240",
-    "description": "Firmware cho ESP32-S3 với màn hình 240x240",
+    "name": "mạch thường 240x240 ST7789",
+    "description": "Firmware cho mạch thường với màn hình 240x240 ST7789",
     "version": "1.0.0",
     "new_install_prompt_erase": true,
     "builds": [

@@ -1,0 +1,17 @@
+MIC (INMP441)
+- SCK: 5
+- WS : 4
+- SD : 6
+
+LOA (MAX98357A)
+- BCLK: 15
+- LRCK: 16
+- DOUT: 7
+
+Màn hình SPI (ST7789)
+- MOSI: 11
+- SCLK: 12
+- CS  : 41
+- DC  : 40
+- RST : 42
+- BL  : 13 (hoặc là 3V3 nếu không được)
